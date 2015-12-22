@@ -1,4 +1,0 @@
-finished 154432 iterations
-left out 9737 trees
-Leer oder Baumgruppe: 2774
-noBaum: 6962
